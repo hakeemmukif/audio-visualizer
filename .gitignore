@@ -61,5 +61,5 @@ dev-server.log
 /screenshots/
 /captured-frames/
 
-# Keep only essential reference frames for development
-/reference-frames/
+# Essential reference frames for pixel-perfect development are now included
+# /reference-frames/
