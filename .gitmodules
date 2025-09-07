@@ -1,0 +1,3 @@
+[submodule "audio-visualizer"]
+	path = audio-visualizer
+	url = https://github.com/hakeemmukif/audio-visualizer.git
